@@ -1,0 +1,5 @@
+#libraries
+pip install flet
+pip install openpyxl
+pip install pygame
+pip install mutagen

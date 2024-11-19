@@ -1,0 +1,68 @@
+# Ignorar el directorio de compilación de Flutter
+build/
+
+# Ignorar los archivos generados por Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Ignorar el directorio de Flutter para dependencias locales
+.flutter
+
+# Ignorar la carpeta de caché de Flutter
+.flutter/bin/cache
+
+# Ignorar el directorio de salida de las aplicaciones compiladas
+*.apk
+*.ipa
+*.app
+*.exe
+*.dmg
+
+# Ignorar las configuraciones de Android Studio y IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignorar los archivos generados por Visual Studio Code
+.vscode/
+
+# Ignorar el entorno de Python
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+db.sqlite3
+
+# Ignorar los archivos de configuración de Python
+*.egg-info/
+*.dist-info/
+
+# Ignorar archivos temporales de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos temporales de edición (editor backup files)
+*~
+*.swp
+*.swo
+
+# Archivos generados por Flet (directorio temporal)
+.flet-build/
+
+# Ignorar la carpeta canciones/
+canciones/
+
+# Ignorar la carpeta fletenv/ (entorno de Python)
+fletenv/
+
+# Ignorar otros archivos y carpetas generados automáticamente
+*.pyc
+__pycache__/
+*.log
+
+# Ignorar el archivo de configuración de Python
+*.env
